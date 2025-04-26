@@ -1,4 +1,4 @@
-# Phishing Awareness Project
+# Phishing Awareness 
 
 This project provides a simple phishing detection and awareness guide for businesses to educate their employees and strengthen email security.
 
